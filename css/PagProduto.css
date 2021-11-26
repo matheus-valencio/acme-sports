@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.imgP{
+    border: 1px solid rgba(0, 0, 0, 0.26);
+    margin: 15px;
+    width:600px;
+    height:500px;
+    text-align: center;
+    
+}
+.preço{
+    width: 300px;
+    text-align: center;
+    border: 1.6px solid rgb(41 41 41);
+    margin-left:30%;
+    font-size:1.4rem;
+}
+
+.descricao{
+    padding:20px;
+    text-align:center;
+    margin-top:20px;
+}
+img{
+    height: 500px;
+    width: 500px;
+}

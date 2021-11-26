@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.cardProduto{
+   border: 1px solid rgba(0, 0, 0, 0.26);
+    margin: 15px;
+  
+}
+.cardProduto p{
+    color: rgb(75, 75, 75);
+    margin: 5px;
+}
+
+.cardProduto img{
+    width: 300px;
+    height: 300px;
+}

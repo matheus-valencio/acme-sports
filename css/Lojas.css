@@ -1,0 +1,15 @@
+.container{
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.cardLojas{
+    border:2px solid black;
+    margin: 15px;
+}
+.cardLojas p, h3{
+    margin: 8px;
+    color: rgb(75, 75, 75);
+}
